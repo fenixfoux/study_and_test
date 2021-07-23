@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">study_and_test</string>
+
+
+    <string name="default_title">default title</string>
+    <string name="default_button">button</string>
+
+    <string name="main_page_title">main page</string>
+    <string name="np_create_dialog">dialog window</string>
+    <string name="np_title_dialog_window">call dialog window</string>
+    <string name="button_back">back</string>
+    <string name="call_dialog_window">dialog</string>
+</resources>
